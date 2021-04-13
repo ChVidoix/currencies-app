@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KarolWiduch_wt1400</string>
+    <string name="currenciesListButton">Lista walut</string>
+    <string name="goldButton">Ceny złota</string>
+    <string name="converterButton">Przelicznik walut</string>
+    <string name="currencyHeader">Kursy walut</string>
+    <string name="title_activity_gold">GoldActivity</string>
+    <string name="converterHeader">Przelicznik walut</string>
+    <string name="goldHeader">Ceny Złota</string>
+    <string name="goldValue">Cena złota: %1$f</string>
+    <string name="detailsHeader">Szczegóły:</string>
+    <string name="exchangeHeader">Przelicznik</string>
+    <string name="currencyFromText">Wybierz walutę, z której chcesz przeliczyć: </string>
+    <string name="currencyToText">Wybierz walutę, do której chcesz przeliczyć: </string>
+    <string name="convertResult">0.0 PLN to 0.0 PLN</string>
+    <string name="convertButton">Konwertuj</string>
+    <string name="amountText">Podaj ilość:</string>
+    <string name="mainTitle">Aplikacja walutowa</string>
+
+</resources>
